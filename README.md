@@ -28,3 +28,10 @@ Payload senders (or payload injectors, or code loaders), are programs or devices
 <br/>
 What is RCM Mode?<br/>
 The Nintendo Switch RCM Mode is used for hacking purposes, specifically for launching into Custom Firmware. Booting into RCM is done based off of a hardware mistake in the Nintendo Switch, and the CFW (custom firmware) is based off of a glitch in recovery mode (RCM).<br/>
+<br/>
+Part 4 - Getting Started<br/>
+In order to effectively hack your switch on virtually any currently available firmware, you need the following items and software<br/>
+<br/>
+1. An RCM Jig - This is the most important part. Without the classic jig, you can't force the RCM mode that is the core of Switch hacking. Some people can get creative by bending a paper clip or tinfoil, but for noobs, this is not recommended since the small "pins" in the right Joy-Con slot are incredibly difficult to see, and if you accidentally trip what's known as "Pin 7", you will instantly brick your switch. Some people luck out by being able to 3d print them, but for everyone else, they go for dirt cheap on Amazon for between $3 and $7.<br/>
+<br/>
+2. USB-C Cord or Portable payload Injector - Just as important as the jig, you can't activate Custom Firmware without performing what's known as a "payload injection", which can only be applied from an outside data source.
