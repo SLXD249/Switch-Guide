@@ -4,7 +4,7 @@ Ever since the Wii, Nintendo has been one of the most easily hackable companies 
 <br/>
 Part 2 - Hacking FAQ<br/>
 Question: What is RCM Mode?<br/>
-:nintendo_homebrew: Is it safe to use homebrew or will I get banned?<br/>
+Is it safe to use homebrew or will I get banned?<br/>
 The Switch comes with a lot of telemetry. As long as the Switch is connected to the internet, Nintendo gets a report about a lot of different actions and states and has the option to log or act on them. Even if the Switch is offline and connects to the internet at a later point, Nintendo still recieves information about what happened while the Switch was disconnected.<br/>
 <br/>
 To disable some of this telemetry it is adviced to disable the sending of error reports in the System Settings of the Switch. Additionally if you live in the EU you can set the "do not share" option on https://accounts.nintendo.com/setting to prevent your Switch from sending a lot of telemetry.<br/>
