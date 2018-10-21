@@ -30,8 +30,7 @@ The Nintendo Switch RCM Mode is used for hacking purposes, specifically for laun
 Is it safe to update my Switch to vX.X.X?<br/>
 Technically, no it's not. The hacking community has uccessfully developed CFW that has been brought up to match Nintendo's firmware at 6.0.0. However, it is strongly suggested that you keep your Switch at a lower firmware because the higher your official firmware, the more difficult itis to hack, and the easier it is for Nintendo to track your information and therefore makes it easier to ban you. Several different CFWs are in production to help minimize this issue, but for a purely safe hacking experience, anything below 5.1.0 is considered safe.<br/>
 <br/>
-<br/>
-Part 4 - Getting Started<br/>
+Part 3 - Getting Started<br/>
 In order to effectively hack your switch on virtually any currently available firmware, you need the following items and software<br/>
 <br/>
 1. An RCM Jig - This is the most important part. Without the classic jig, you can't force the RCM mode that is the core of Switch hacking. Some people can get creative by bending a paper clip or tinfoil, but for noobs, this is not recommended since the small "pins" in the right Joy-Con slot are incredibly difficult to see, and if you accidentally trip what's known as "Pin 7", you will instantly brick your switch. Some people luck out by being able to 3d print them, but for everyone else, they go for dirt cheap on Amazon for between $3 and $7.<br/>
