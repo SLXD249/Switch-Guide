@@ -48,8 +48,8 @@ Anyway, the more "honest" way to use CFW is to geta more well-known, free and "h
 Part 3b: CFW Pros and Cons<br/>
 Atmosphere<br/>
 Pro: Has the fusee payload for instant launching<br/>
-Con: Fusee is a barebones payload launcher and doesn't have hekate features.
-Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.
+Con: Fusee is a barebones payload launcher and doesn't have hekate features.<br/>
+Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.<br/>
 Rei NX<br/>
 <br/>
 SD Files Switched<br/>
