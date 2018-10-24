@@ -53,10 +53,10 @@ Pro: Contains "Creport", which is a background process that prevents your switch
 Con: Fusee is a barebones payload launcher and doesn't have hekate features.<br/>
 Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.<br/>
 <br/>
-Rei NX<br/>
+ReiNX<br/>
 Con: Randomly sends crash reports to Nintendo when you are connected to the Internet, regardless of if you're using a DNS blocker, which greatly increases your chances of being banned the longer you're connected.<br/>
 Pro:Simple to use just inject the payload and put the files on your sd and your done<br/>
-Con:Quite Buggy And crashes alot and that means crash repots<br/>
+Con: quite Buggy and crashes alot and that means crash repots<br/>
 Pro:Has sigpatches for homebrew nsps/unsinged titles
 <br/>
 SD Files Switched<br/>
