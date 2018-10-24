@@ -48,9 +48,13 @@ Anyway, the more "honest" way to use CFW is to geta more well-known, free and "h
 Part 3b: CFW Pros and Cons<br/>
 Atmosphere<br/>
 Pro: Has the fusee payload for instant launching<br/>
+Pro: Contains "Creport", which is a background process that prevents your switch from sending crash reports to Nintendo, which greatly reduces your chances of being banned.<br/>
+<br/>
 Con: Fusee is a barebones payload launcher and doesn't have hekate features.<br/>
 Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.<br/>
+<br/>
 Rei NX<br/>
+Con: Randomly sends crash reports to Nintendo when you are connected to the Internet, regardless of if you're using a DNS blocker, which greatly increases your chances of being banned the longer you're connected.<br/>
 <br/>
 SD Files Switched<br/>
 <br/>
