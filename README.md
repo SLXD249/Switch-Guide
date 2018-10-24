@@ -60,6 +60,10 @@ Con: quite Buggy and crashes alot and that means crash repots<br/>
 Pro:Has sigpatches for homebrew nsps/unsinged titles
 <br/>
 SD Files Switched<br/>
+Pro:Always up to date + includes a way for downloading cfw packages.<br/>
+Pro:Sig patches for easy homebrew nsps/unsigned titles.<br/>
+Con:Quite a big zip file when downloading<br/>
+Con:Contains weird versions of homebrew apps.<br/>
 <br/>
 Raj NX<br/>
 <br/>
