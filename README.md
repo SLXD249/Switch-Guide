@@ -28,7 +28,7 @@ Payload senders (or payload injectors, or code loaders), are programs or devices
 What is RCM Mode?<br/>
 The Nintendo Switch RCM Mode is used for hacking purposes, specifically for launching into Custom Firmware. Booting into RCM is done based off of a hardware mistake in the Nintendo Switch, and the CFW (custom firmware) is based off of a glitch in recovery mode (RCM).<br/>
 Is it safe to update my Switch to vX.X.X?<br/>
-Technically, no it's not. The hacking community has uccessfully developed CFW that has been brought up to match Nintendo's firmware at 6.0.0. However, it is strongly suggested that you keep your Switch at a lower firmware because the higher your official firmware, the more difficult itis to hack, and the easier it is for Nintendo to track your information and therefore makes it easier to ban you. Several different CFWs are in production to help minimize this issue, but for a purely safe hacking experience, anything below 5.1.0 is considered safe.<br/>
+Technically, no it's not. The hacking community has successfully developed CFW that has been brought up to match Nintendo's firmware at 6.0.0. However, it is strongly suggested that you keep your Switch at a lower firmware because the higher your official firmware, the more difficult itis to hack, and the easier it is for Nintendo to track your information and therefore makes it easier to ban you. Several different CFWs are in production to help minimize this issue, but for a purely safe hacking experience, anything below 5.1.0 is considered safe.<br/>
 <br/>
 Part 3 - Getting Started<br/>
 In order to effectively hack your switch on virtually any currently available firmware, you need the following items and software<br/>
@@ -39,4 +39,20 @@ In order to effectively hack your switch on virtually any currently available fi
 <br/>
 3. Micro SD Card<br/>
 Most switch owners have this already, but if you're truly looking to maximize your gaming experience, it's recommended that you have at last a 128 Micro SD Card since performing a base NAND backup is at minimum 30 GB. Also, when you install your games, you need space for the installation file and the installed game, which hits you for double space until you remove the installation file. However, if you must settle for less, your bare minimum is a 64 GB card. Your SD Card will be the heart and soul of your hacking experience, so make sure you get a quality brand because while they all may look alike, cheaper brands don't always support larger files. The best brands are SanDisk and Samsung. Also, if you want to be guaranteed a quality card from an online site, use Amazon since there are far too many scammers on sites like eBay and Aliexpress. It's far too easy for people to slip you a lesser card and pass it off as a quality brand. <br/>
-4. 
+4a. Custom Firmware (Warning)<br/>
+This one is important, because there is currently a major battle going on for CFW supremacy when it comes to hacking. At the moment, two previously high-end CFWs have already been debunked because of advances in hacking technology. They are SX and Xecuter. SX used to be on top, but they have been known to charge for their CFW program. If you have to pay money for a hacking program, YOU ARE BEING SCAMMED. And like SX, Xecuter has been known to based off of pure piracy. While it may seem redundant to call hacking "piracy", there is definitely a difference between modding "honestly" and modding through "pirated" means. The only items you should ever have to pay for is your USB-C cord/payload injector, your jig if you don't make your own, and your Micro SD Card, all of which are pure hardware.<br/>
+<br/>
+4b. Custom Firmware (Real)<br/>
+Anyway, the more "honest" way to use CFW is to geta more well-known, free and "honest" brand, which at the moment there are four of, each one addressing and applying different benefits of hacking to your Switch. (LINKS HERE)Rei NX, Raj NX, Atmosphere, and "SD Files Switched" (real name). Depending on your current official firmware, each brand has different benefits and bonuses that modify your system process and either benefit or hinder the overall processes. Every one of these CFWs is currently active in development and performance, so there will always be room to improve for each one that we will inform you as soon as we know something.<br/>
+<br/>
+Part 3b: CFW Pros and Cons
+Rei NX<br/>
+<br/>
+Raj NX<br/>
+<br/>
+Atmosphere<br/>
+<br/>
+SD Files Switched<br/>
+<br/>
+Thermosphere (In development)<br/>
+<br/>
