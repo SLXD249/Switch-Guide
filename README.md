@@ -45,14 +45,15 @@ This one is important, because there is currently a major battle going on for CF
 4b. Custom Firmware (Real)<br/>
 Anyway, the more "honest" way to use CFW is to geta more well-known, free and "honest" brand, which at the moment there are four of, each one addressing and applying different benefits of hacking to your Switch. (LINKS HERE)Rei NX, Raj NX, Atmosphere, and "SD Files Switched" (real name). Depending on your current official firmware, each brand has different benefits and bonuses that modify your system process and either benefit or hinder the overall processes. Every one of these CFWs is currently active in development and performance, so there will always be room to improve for each one that we will inform you as soon as we know something.<br/>
 <br/>
-Part 3b: CFW Pros and Cons
-Rei NX<br/>
-<br/>
-Raj NX<br/>
-<br/>
+Part 3b: CFW Pros and Cons<br/>
 Atmosphere<br/>
+Pro: Has the fusee payload for instant launching<br/>
+Con: Fusee is a barebones payload launcher and doesn't have hekate features.
+Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.
+Rei NX<br/>
 <br/>
 SD Files Switched<br/>
 <br/>
-Thermosphere (In development)<br/>
+Raj NX<br/>
 <br/>
+
