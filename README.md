@@ -20,7 +20,7 @@ Currently all bans have been for very obvious and intrusive actions, specificall
 This however does not mean that Nintendo won't decide to ban people for harmless homebrew in the future. If you are scared to get banned then don't use homebrew for now. Once Atmosphere CFW releases we will be able to create a dual-boot (emunand) solution, that allows us to have a clean, online firmware and a seperate offline firmware for homebrew related things. Unbanning on the Switch will be a lot harder, if not impossible.<br/>
 <br/>
 What is a "jig"?<br/>
-A jig is a small piece of metal that is used to bridge the gaps between two of the "pins" in the right Joy-Con port in order to hard-wire RCM Mode. These items usually differ from a modified paper clip or a piece of aluminum foil or a custom-made 3d-printed item that fits in the port to trip the pins. However, one must be very careful what pins you trip, because not only are they very small and difficult to see, but if you trip "pin number 7", you will automatically brick your switch. Therefore, it is highly recommended that you buy a prefabricated one from Amazon for the average price of $3-$7<br/>
+A jig is a small piece of metal that is used to bridge the gaps between two of the "pins" in the right Joy-Con port in order to hard-wire RCM Mode. These items usually differ from a modified paper clip or a piece of aluminum foil or a custom-made 3d-printed item that fits in the port to trip the pins. However, one must be very careful what pins you trip, because not only are they very small and difficult to see, but if you trip "pin number 7", you will automatically brick your switch. Therefore, it is highly recommended that you buy a prefabricated one from eBay for the average price of $3-$7<br/>
 <br/>
 What is a payload?<br/>
 Payload senders (or payload injectors, or code loaders), are programs or devices used to transfer a small binary file (the payload) to the Nintendo Switch while being in Recovery mode (RCM), which allows early custom program's execution at console boot before the Switch official Operating System (Horizon OS) is loaded.<br/>
@@ -48,11 +48,22 @@ Anyway, the more "honest" way to use CFW is to geta more well-known, free and "h
 Part 3b: CFW Pros and Cons<br/>
 Atmosphere<br/>
 Pro: Has the fusee payload for instant launching<br/>
+Pro: Contains "Creport", which is a background process that prevents your switch from sending crash reports to Nintendo, which greatly reduces your chances of being banned.<br/>
+<br/>
 Con: Fusee is a barebones payload launcher and doesn't have hekate features.<br/>
 Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.<br/>
-Rei NX<br/>
+<br/>
+ReiNX<br/>
+Con: Randomly sends crash reports to Nintendo when you are connected to the Internet, regardless of if you're using a DNS blocker, which greatly increases your chances of being banned the longer you're connected.<br/>
+Pro:Simple to use just inject the payload and put the files on your sd and your done<br/>
+Con: quite Buggy and crashes alot and that means crash repots<br/>
+Pro:Has sigpatches for homebrew nsps/unsinged titles
 <br/>
 SD Files Switched<br/>
+Pro:Always up to date + includes a way for downloading cfw packages.<br/>
+Pro:Sig patches for easy homebrew nsps/unsigned titles.<br/>
+Con:Quite a big zip file when downloading<br/>
+Con:Contains weird versions of homebrew apps.<br/>
 <br/>
 Raj NX<br/>
 <br/>
