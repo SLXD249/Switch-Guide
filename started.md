@@ -15,4 +15,4 @@ This one is important, because there is currently a major battle going on for CF
 4b. Custom Firmware (Real)<br/>
 Anyway, the more "honest" way to use CFW is to geta more well-known, free and "honest" brand, which at the moment there are four of, each one addressing and applying different benefits of hacking to your Switch. (LINKS HERE)Rei NX, Raj NX, Atmosphere, and "SD Files Switched" (real name). Depending on your current official firmware, each brand has different benefits and bonuses that modify your system process and either benefit or hinder the overall processes. Every one of these CFWs is currently active in development and performance, so there will always be room to improve for each one that we will inform you as soon as we know something.<br/>
 <br/>
-[Atmosphére](https://github.com/Atmosphere-NX/Atmosphere/releases/latest)
+[SDFiles](https://github.com/Atmosphere-NX/Atmosphere/releases/latest)
