@@ -66,5 +66,9 @@ Con:Quite a big zip file when downloading<br/>
 Con:Contains weird versions of homebrew apps.<br/>
 <br/>
 Raj NX<br/>
+Pro:Like Atmosphere it contains creport<br/>
+Con:Clone like atmosphere<br/>
+Pro:Sig patches for homebrew nsps<br/>
+Con:Uses a unoffical hekate version
 <br/>
 
