@@ -1,5 +1,5 @@
 <b> Is it safe to use homebrew or will I get banned?<
-    
+ 
 The Switch comes with a lot of telemetry. As long as the Switch is connected to the internet, Nintendo gets a report about a lot of different actions and states and has the option to log or act on them. Even if the Switch is offline and connects to the internet at a later point, Nintendo still recieves information about what happened while the Switch was disconnected.
 
 To disable some of this telemetry it is adviced to disable the sending of error reports in the System Settings of the Switch. Additionally if you live in the EU you can set the "do not share" option on https://accounts.nintendo.com/setting to prevent your Switch from sending a lot of telemetry.
@@ -15,4 +15,4 @@ Currently all bans have been for very obvious and intrusive actions, specificall
     People cheating online in general (Modifying Cart stats in MK8)
 
 
-This however does not mean that Nintendo won't decide to ban people for harmless homebrew in the future. If you are scared to get banned then don't use homebrew for now. Once Atmosphere CFW releases we will be able to create a dual-boot (emunand) solution, that allows us to have a clean, online firmware and a seperate offline firmware for homebrew related things. Unbanning on the Switch will be a lot harder, if not impossible.
+This however does not mean that Nintendo won't decide to ban people for harmless homebrew in the future. If you are scared to get banned then don't use homebrew for now. Once Atmosphere CFW releases we will be able to create a dual-boot (emunand) solution, that allows us to have a clean, online firmware and a seperate offline firmware for homebrew related things. Unbanning on the Switch will be a lot harder, if not impossible.<br/>
