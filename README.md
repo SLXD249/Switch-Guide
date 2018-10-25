@@ -54,21 +54,24 @@ Con: Fusee is a barebones payload launcher and doesn't have hekate features.<br/
 Con: Doesn't support NSP/XCI game loading. Must install game with alternative CFW and apply sigpatches to run on Atmosphere.<br/>
 <br/>
 ReiNX<br/>
+Pro: Simple to use just inject the payload and put the files on your sd and your done<br/>
+Pro: Has sigpatches for homebrew nsps/unsinged titles<br/>
+<br/>
 Con: Randomly sends crash reports to Nintendo when you are connected to the Internet, regardless of if you're using a DNS blocker, which greatly increases your chances of being banned the longer you're connected.<br/>
-Pro:Simple to use just inject the payload and put the files on your sd and your done<br/>
 Con: quite Buggy and crashes alot and that means crash repots<br/>
-Pro:Has sigpatches for homebrew nsps/unsinged titles
 <br/>
 SD Files Switched<br/>
-Pro:Always up to date + includes a way for downloading cfw packages.<br/>
-Pro:Sig patches for easy homebrew nsps/unsigned titles.<br/>
-Con:Quite a big zip file when downloading<br/>
-Con:Contains weird versions of homebrew apps.<br/>
+Pro: Always up to date + includes a way for downloading cfw packages.<br/>
+Pro: Sig patches for easy homebrew nsps/unsigned titles.<br/>
+<br/>
+Con: Quite a big zip file when downloading<br/>
+Con: Contains weird versions of homebrew apps.<br/>
 <br/>
 Raj NX<br/>
-Pro:Like Atmosphere it contains creport<br/>
-Con:Clone like atmosphere<br/>
-Pro:Sig patches for homebrew nsps<br/>
-Con:Uses a unoffical hekate version
+Pro: Like Atmosphere it contains creport<br/>
+Pro: Sig patches for homebrew nsps<br/>
+<br>
+Con: Clone like atmosphere<br/>
+Con: Uses a unoffical hekate version<br/>
 <br/>
 
