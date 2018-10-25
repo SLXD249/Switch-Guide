@@ -1,4 +1,4 @@
-<b> Is it safe to use homebrew or will I get banned?<br/>
+<b/> Is it safe to use homebrew or will I get banned?<br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 The Switch comes with a lot of telemetry. As long as the Switch is connected to the internet, Nintendo gets a report about a lot of different actions and states and has the option to log or act on them. Even if the Switch is offline and connects to the internet at a later point, Nintendo still recieves information about what happened while the Switch was disconnected.
 
