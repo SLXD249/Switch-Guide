@@ -1,8 +1,8 @@
 Nintendo Homebrew Channel 2.0 Master Guide<br/>
-Page 1 - Introduction<br/>
+<br/>
 Ever since the Wii, Nintendo has been one of the most easily hackable companies to date. In fact, it seems that over time, once the proper tools are available, it's become easier and easier for the average gamer to modify their own systems. But for the most part, the methods and tools needed to do so are scattered all over the internet and are only accessible by those who know where to look. Also, some people also don't know what types of tools are the most beneficial. But what we will attempt to do is centralize the basic Nintendo hacking system, which will literally spell out in plain English what you need to perform a successful hack without all the technical mumbo-jumbo that most sites tend to throw in. We will make it so that virtually any noob can hack their systems from scratch with little to no beginning knowledge of all the fine details. This guide was made on an entirely volunteer service from people who care about hacking Nintendo and are willing to share the knowledge with others.<br/>
 <br/>
-Part 2 - Hacking FAQ<br/>
+Part 1 - Hacking FAQ<br/>
 Is it safe to use homebrew or will I get banned?<br/>
 The Switch comes with a lot of telemetry. As long as the Switch is connected to the internet, Nintendo gets a report about a lot of different actions and states and has the option to log or act on them. Even if the Switch is offline and connects to the internet at a later point, Nintendo still recieves information about what happened while the Switch was disconnected.<br/>
 <br/>
@@ -30,7 +30,7 @@ The Nintendo Switch RCM Mode is used for hacking purposes, specifically for laun
 Is it safe to update my Switch to vX.X.X?<br/>
 Technically, no it's not. The hacking community has successfully developed CFW that has been brought up to match Nintendo's firmware at 6.0.0. However, it is strongly suggested that you keep your Switch at a lower firmware because the higher your official firmware, the more difficult itis to hack, and the easier it is for Nintendo to track your information and therefore makes it easier to ban you. Several different CFWs are in production to help minimize this issue, but for a purely safe hacking experience, anything below 5.1.0 is considered safe.<br/>
 <br/>
-Part 3 - Getting Started<br/>
+Part 2 - Getting Started<br/>
 In order to effectively hack your switch on virtually any currently available firmware, you need the following items and software<br/>
 <br/>
 1. An RCM Jig - This is the most important part. Without the classic jig, you can't force the RCM mode that is the core of Switch hacking. Some people can get creative by bending a paper clip or tinfoil, but for noobs, this is not recommended since the small "pins" in the right Joy-Con slot are incredibly difficult to see, and if you accidentally trip what's known as "Pin 7", you will instantly brick your switch. Some people luck out by being able to 3d print them, but for everyone else, they go for dirt cheap on Amazon or eBay for between $3 and $7.<br/>
@@ -46,7 +46,7 @@ This one is important, because there is currently a major battle going on for CF
 4b. Custom Firmware (Real)<br/>
 Anyway, the more "honest" way to use CFW is to geta more well-known, free and "honest" brand, which at the moment there are four of, each one addressing and applying different benefits of hacking to your Switch. (LINKS HERE)Rei NX, Raj NX, Atmosphere, and "SD Files Switched" (real name). Depending on your current official firmware, each brand has different benefits and bonuses that modify your system process and either benefit or hinder the overall processes. Every one of these CFWs is currently active in development and performance, so there will always be room to improve for each one that we will inform you as soon as we know something.<br/>
 <br/>
-Part 3b: CFW Pros and Cons<br/>
+Part 3: CFW Pros and Cons<br/>
 Atmosphere<br/>
 Pro: Has the fusee payload for instant launching<br/>
 Pro: Contains "Creport", which is a background process that prevents your switch from sending crash reports to Nintendo, which greatly reduces your chances of being banned.<br/>
